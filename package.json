@@ -1,5 +1,5 @@
 {
-  "name": "egg-sequelize",
+  "name": "@souvenir/egg-sequelize",
   "version": "5.1.0",
   "description": "egg Sequelize plugin",
   "eggPlugin": {
@@ -53,6 +53,6 @@
     "url": "https://github.com/eggjs/egg/issues"
   },
   "homepage": "https://github.com/eggjs/egg-sequelize#readme",
-  "author": "jtyjty99999",
+  "author": "souvenir",
   "license": "MIT"
 }
